@@ -1,0 +1,534 @@
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Starting application
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Initializing database
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Dropped existing tables to ensure schema consistency
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Created database tables
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Added default users
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Added default investment categories
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Initialized investments for user Sameer
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Initialized investments for user Meenakshi
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Initialized investments for user Sameeksha
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Initialized investments for user Sakshi
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Added default properties
+2025-05-02 13:36:43 - INFO - 2025-05-02 13:36:43 - INFO - Database initialization completed
+2025-05-02 13:36:44 - INFO - 2025-05-02 13:36:44 - INFO - API_REQUEST: GET / - Serving index.html
+2025-05-02 13:36:44 - INFO - 2025-05-02 13:36:44 - INFO - API_REQUEST: GET /api/users
+2025-05-02 13:36:44 - INFO - 2025-05-02 13:36:44 - INFO - API_REQUEST: GET /api/categories
+2025-05-02 13:36:44 - INFO - 2025-05-02 13:36:44 - INFO - Retrieved 4 users
+2025-05-02 13:36:44 - INFO - 2025-05-02 13:36:44 - INFO - API_REQUEST: GET /api/investments - user_id: None
+2025-05-02 13:36:44 - INFO - 2025-05-02 13:36:44 - INFO - API_REQUEST: GET /api/properties
+2025-05-02 13:36:44 - INFO - 2025-05-02 13:36:44 - INFO - Retrieved 5 properties
+2025-05-02 13:36:44 - INFO - 2025-05-02 13:36:44 - INFO - Retrieved 28 investments
+2025-05-02 13:36:44 - INFO - 2025-05-02 13:36:44 - INFO - Retrieved 7 categories
+2025-05-02 13:36:47 - INFO - 2025-05-02 13:36:47 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:47 - INFO - 2025-05-02 13:36:47 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:47 - INFO - 2025-05-02 13:36:47 - INFO - Updated investment: user_id=1, category_id=1, current_value=23.0
+2025-05-02 13:36:47 - INFO - 2025-05-02 13:36:47 - INFO - Updated investment: user_id=1, category_id=1, current_value=2.0
+2025-05-02 13:36:47 - INFO - 2025-05-02 13:36:47 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:47 - INFO - 2025-05-02 13:36:47 - INFO - Updated investment: user_id=1, category_id=1, current_value=232.0
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - Updated investment: user_id=1, category_id=1, current_value=23.0
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - Updated investment: user_id=1, category_id=1, current_value=2.0
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - Updated investment: user_id=1, category_id=1, current_value=0.0
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - Updated investment: user_id=1, category_id=1, current_value=0.0
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - Updated investment: user_id=1, category_id=1, current_value=1.0
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - Updated investment: user_id=1, category_id=1, current_value=12.0
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:48 - INFO - 2025-05-02 13:36:48 - INFO - Updated investment: user_id=1, category_id=1, current_value=123.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=122.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=121.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=119.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=120.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=117.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=116.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=115.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=114.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=118.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=112.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=113.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=111.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=110.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=109.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=108.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=107.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=106.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=105.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=104.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=103.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=102.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=101.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=100.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=99.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - Updated investment: user_id=1, category_id=1, current_value=98.0
+2025-05-02 13:36:49 - INFO - 2025-05-02 13:36:49 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=97.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=96.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=95.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=94.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=93.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=92.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=91.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=90.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=89.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=88.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=87.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=86.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=85.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=84.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=83.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=82.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=81.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=80.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=79.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=78.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=77.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=76.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=75.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=74.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=73.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=72.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=71.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=70.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=69.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=68.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=67.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=66.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=65.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=64.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=63.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=62.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=61.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=60.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=59.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=58.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=57.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=56.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=55.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=54.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=53.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=52.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=51.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=50.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=49.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=48.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=47.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=46.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=45.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=44.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=43.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=42.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=41.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=40.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=39.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=38.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=37.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=36.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=35.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=34.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=33.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=32.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=31.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=30.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=29.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=28.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=27.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=26.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=25.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=24.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=23.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=21.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=20.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=19.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=18.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=22.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=16.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=15.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=14.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=13.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=12.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=11.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=10.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=9.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=8.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=7.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=6.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=5.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=17.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=3.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=2.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=1.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=0.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=4.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=1.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=2.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=3.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=4.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=5.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=6.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=7.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=8.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=9.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=10.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=11.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=12.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=13.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=14.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=15.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=16.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=17.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=18.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=19.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=20.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=21.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=22.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=23.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=24.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=25.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=26.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=27.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - Updated investment: user_id=1, category_id=1, current_value=28.0
+2025-05-02 13:36:50 - INFO - 2025-05-02 13:36:50 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=29.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=30.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=31.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=32.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=33.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=34.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=35.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=36.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=37.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=38.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=39.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=40.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=41.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=42.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=43.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=44.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=45.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=46.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=47.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=48.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=49.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=50.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=51.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=52.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=53.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=54.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=55.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=56.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=57.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=58.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=59.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=60.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=61.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=62.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=63.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=64.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=65.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=66.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=67.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=68.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=69.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=70.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=71.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=72.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=73.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=74.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=75.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=76.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=77.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=78.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=79.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=80.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=81.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=82.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=83.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=84.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=85.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=86.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=87.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=88.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=89.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=90.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=91.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=92.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=93.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=94.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=95.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=96.0
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - API_REQUEST: PUT /api/investments/1/1
+2025-05-02 13:36:51 - INFO - 2025-05-02 13:36:51 - INFO - Updated investment: user_id=1, category_id=1, current_value=95.0
+2025-05-02 13:36:55 - INFO - 2025-05-02 13:36:55 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 0, 'rental_income': 0}
+2025-05-02 13:36:55 - INFO - 2025-05-02 13:36:55 - INFO - Updated property ID 1: current_value=0.0, rental_income=0.0
+2025-05-02 13:36:55 - INFO - 2025-05-02 13:36:55 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 0, 'rental_income': 3}
+2025-05-02 13:36:55 - INFO - 2025-05-02 13:36:55 - INFO - Updated property ID 1: current_value=0.0, rental_income=3.0
+2025-05-02 13:36:55 - INFO - 2025-05-02 13:36:55 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 0, 'rental_income': 34}
+2025-05-02 13:36:55 - INFO - 2025-05-02 13:36:55 - INFO - Updated property ID 1: current_value=0.0, rental_income=34.0
+2025-05-02 13:36:56 - INFO - 2025-05-02 13:36:56 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 0, 'rental_income': 342}
+2025-05-02 13:36:56 - INFO - 2025-05-02 13:36:56 - INFO - Updated property ID 1: current_value=0.0, rental_income=342.0
+2025-05-02 13:36:56 - INFO - 2025-05-02 13:36:56 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 0, 'rental_income': 3423}
+2025-05-02 13:36:56 - INFO - 2025-05-02 13:36:56 - INFO - Updated property ID 1: current_value=0.0, rental_income=3423.0
+2025-05-02 13:36:56 - INFO - 2025-05-02 13:36:56 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 0, 'rental_income': 34234}
+2025-05-02 13:36:56 - INFO - 2025-05-02 13:36:56 - INFO - Updated property ID 1: current_value=0.0, rental_income=34234.0
+2025-05-02 13:36:57 - INFO - 2025-05-02 13:36:57 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 0, 'rental_income': 34234}
+2025-05-02 13:36:57 - INFO - 2025-05-02 13:36:57 - INFO - Updated property ID 1: current_value=0.0, rental_income=34234.0
+2025-05-02 13:36:58 - INFO - 2025-05-02 13:36:58 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 1, 'rental_income': 34234}
+2025-05-02 13:36:58 - INFO - 2025-05-02 13:36:58 - INFO - Updated property ID 1: current_value=1.0, rental_income=34234.0
+2025-05-02 13:36:58 - INFO - 2025-05-02 13:36:58 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 12, 'rental_income': 34234}
+2025-05-02 13:36:58 - INFO - 2025-05-02 13:36:58 - INFO - Updated property ID 1: current_value=12.0, rental_income=34234.0
+2025-05-02 13:36:58 - INFO - 2025-05-02 13:36:58 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 123, 'rental_income': 34234}
+2025-05-02 13:36:58 - INFO - 2025-05-02 13:36:58 - INFO - Updated property ID 1: current_value=123.0, rental_income=34234.0
+2025-05-02 13:36:59 - INFO - 2025-05-02 13:36:59 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 1233, 'rental_income': 34234}
+2025-05-02 13:36:59 - INFO - 2025-05-02 13:36:59 - INFO - Updated property ID 1: current_value=1233.0, rental_income=34234.0
+2025-05-02 13:36:59 - INFO - 2025-05-02 13:36:59 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 12332, 'rental_income': 34234}
+2025-05-02 13:36:59 - INFO - 2025-05-02 13:36:59 - INFO - Updated property ID 1: current_value=12332.0, rental_income=34234.0
+2025-05-02 13:36:59 - INFO - 2025-05-02 13:36:59 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 123325, 'rental_income': 34234}
+2025-05-02 13:36:59 - INFO - 2025-05-02 13:36:59 - INFO - Updated property ID 1: current_value=123325.0, rental_income=34234.0
+2025-05-02 13:36:59 - INFO - 2025-05-02 13:36:59 - INFO - API_REQUEST: PUT /api/properties/1 - Data: {'current_value': 1233254, 'rental_income': 34234}
+2025-05-02 13:36:59 - INFO - 2025-05-02 13:36:59 - INFO - Updated property ID 1: current_value=1233254.0, rental_income=34234.0
+2025-05-02 13:37:05 - INFO - 2025-05-02 13:37:05 - INFO - API_REQUEST ELECTRONIC: GET /api/export_excel
+2025-05-02 13:37:05 - INFO - 2025-05-02 13:37:05 - INFO - Generated and saved Excel file at: C:\Users\ASUS/Downloads\Personal_Finance_Tracker_2025-05-02_13-37-05.xlsx
+2025-05-02 13:37:34 - INFO - 2025-05-02 13:37:34 - INFO - Application shutdown
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Starting application
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Initializing database
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Dropped existing tables to ensure schema consistency
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Created database tables
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Added default users
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Added default investment categories
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Initialized investments for user Sameer
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Initialized investments for user Meenakshi
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Initialized investments for user Sameeksha
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Initialized investments for user Sakshi
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Added default properties
+2025-05-02 13:44:00 - INFO - 2025-05-02 13:44:00 - INFO - Database initialization completed
+2025-05-02 13:44:01 - INFO - 2025-05-02 13:44:01 - INFO - API_REQUEST: GET / - Serving index.html
+2025-05-02 13:44:01 - INFO - 2025-05-02 13:44:01 - INFO - API_REQUEST: GET /api/users
+2025-05-02 13:44:01 - INFO - 2025-05-02 13:44:01 - INFO - API_REQUEST: GET /api/categories
+2025-05-02 13:44:01 - INFO - 2025-05-02 13:44:01 - INFO - API_REQUEST: GET /api/investments - user_id: None
+2025-05-02 13:44:01 - INFO - 2025-05-02 13:44:01 - INFO - API_REQUEST: GET /api/properties
+2025-05-02 13:44:01 - INFO - 2025-05-02 13:44:01 - INFO - Retrieved 4 users
+2025-05-02 13:44:01 - INFO - 2025-05-02 13:44:01 - INFO - Retrieved 7 categories
+2025-05-02 13:44:01 - INFO - 2025-05-02 13:44:01 - INFO - Retrieved 5 properties
+2025-05-02 13:44:01 - INFO - 2025-05-02 13:44:01 - INFO - Retrieved 28 investments
+2025-05-02 13:47:50 - INFO - 2025-05-02 13:47:50 - INFO - Application shutdown
